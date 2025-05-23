@@ -76,9 +76,10 @@ WSL-PostUpdate-Check-Script/
 🧠 Author Notes
 
 This simple automation tool was created to streamline WSL checks and can be integrated into larger post-update automation scripts or system monitoring tools.
+
 MIT License
 
-Copyright (c) 2025 Jacqueline Gibson-Bradley
+Copyright (c) 2025 Obsidi4n-Om3ga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
